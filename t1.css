@@ -1,0 +1,38 @@
+body {
+     background-image: url("https://i.imgur.com/3VVSVa3.png");
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     min-height: 100vh;
+     text-align: center;
+     }
+    h1 {
+     position: absolute;
+     top: 20px;
+     left: 50%;
+     transform: translateX(-50%);
+     font-size: 50px;
+     padding-bottom: 60px;
+     color: white;
+     text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+     }
+    h2 {
+     font-size: 100px;
+     color: white;
+     text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+     letter-spacing: 40px;
+     margin-top: 400px
+     }
+    button {
+     background-image: url("https://i.imgur.com/PULmvN4.png");
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     padding: 30px 120px;
+     border-color: white;
+     border-radius: 20px;
+     cursor: pointer;
+     }
